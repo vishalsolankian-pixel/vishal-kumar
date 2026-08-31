@@ -1,0 +1,6 @@
+a=int(input("Enter the first number:"))
+b=int(input("Enter the second number:"))
+print("Division=",a/b)
+print("Floor Division=",a//b)
+print("Exponent=",a**b)
+print("Rem=",a%b)
